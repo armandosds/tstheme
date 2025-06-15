@@ -1,0 +1,33 @@
+{
+  "name": "AmigoZ Blue Theme",
+  "description": "AmigoZ by ArmandoSDS",
+  "version": "1.1.0",
+  "identifier": "com.teamspeak.theme.blue",
+  "engines": {
+    "teamspeak": 1
+  },
+    "repository": {
+        "url": "https://github.com/armandosds/tstheme",
+        "directory": "tstheme",
+        "type": "git"
+    },
+    "image": "AmigoZ-Blue.png",
+    "license": "MIT",
+    "author": {
+        "name": "Armando Soares",
+        "email": "armandosds@gmail.com",
+        "url": "https://amigoz.com.br",
+        "userTag": "ArmandoSDS@myteamspeak.com"
+    },
+  "content": {
+    "themes": [
+      {
+        "name": "AmigoZ Blue",
+        "source": "AmigoZ-Blue.css",
+        "image": "AmigoZ-Blue.png",
+	"apiVersion": 1
+      }
+
+    ]
+  }
+}
