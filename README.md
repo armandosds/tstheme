@@ -1,0 +1,2 @@
+# tstheme
+AmigoZ TeamSpeak Theme
