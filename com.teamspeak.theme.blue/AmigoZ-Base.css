@@ -20,8 +20,8 @@
   --teamspeak-blue-transparent-light: rgba(88, 101, 242, 0.1);
 
   /* Background Colors - Even Darker Version */
-  --teamspeak-dark-bg-primary: #1a1b1e;   /* Main content areas  */
-  --teamspeak-dark-bg-secondary: #121314; /* Sidebars, Widgets  */
+  --teamspeak-dark-bg-primary: #f0edee;   /* Main content areas  */
+  --teamspeak-dark-bg-secondary: #191f3a; /* Sidebars, Widgets  */
   --teamspeak-dark-bg-tertiary: #0d0e0f;  /* Tooltips, Popups, Headers  */
   --teamspeak-dark-bg-modifier-hover: rgba(255, 255, 255, 0.05); /* Slightly more visible white hover */
   --teamspeak-dark-bg-modifier-active: rgba(255, 255, 255, 0.07); /* Slightly more visible white active */
